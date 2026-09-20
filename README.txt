@@ -21,5 +21,9 @@ IMPORTANT BEFORE PUBLIC LAUNCH:
 4. For online card/UPI payments, connect a payment gateway such as Razorpay after your business/KYC setup.
 5. For a custom domain, buy your preferred domain and connect it to the hosting provider.
 
-The current site is a static storefront; it does not itself create a domain or hosting account.
-<img src="images/purse1.jpg" alt="Ladies Purse">
+The current site is a static storefront; it does not itself create a domain or hosting account
+.hero {
+    background-image: url("hero.png");
+    background-size: cover;
+    background-position: center;
+}
